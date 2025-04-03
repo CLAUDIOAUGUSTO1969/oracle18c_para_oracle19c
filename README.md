@@ -1,0 +1,1 @@
+# oracle18c_para_oracle19c
